@@ -1,0 +1,12 @@
+body{
+    background-color: crimson;
+    color:white;
+}
+.inner{
+    text-align: center;
+    padding-top: 30vh;
+}
+.head{
+    font-size:70px;
+    
+}
